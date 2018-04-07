@@ -1,0 +1,15 @@
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\Linguagem.exe.config
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\Linguagem.exe
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\Linguagem.pdb
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\ClassLibrary1.dll
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\Entidade.dll
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\ClassLibrary1.pdb
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\bin\Debug\Entidade.pdb
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.Linguagem.resources
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.Properties.Resources.resources
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.csproj.GenerateResource.Cache
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.exe
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.pdb
+C:\Projetos.Net\Linguagem\Linguagem\Linguagem\obj\Debug\Linguagem.Principal.resources

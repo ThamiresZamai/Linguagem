@@ -16,5 +16,10 @@ namespace Linguagem
         {
             InitializeComponent();
         }
+
+        private void linguagemToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Linguagem().ShowDialog();
+        }
     }
 }

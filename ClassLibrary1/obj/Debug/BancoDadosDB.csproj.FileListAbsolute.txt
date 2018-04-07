@@ -1,0 +1,8 @@
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\bin\Debug\Entidade.dll
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\bin\Debug\Entidade.pdb
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\obj\Debug\BancoDadosDB.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\obj\Debug\BancoDadosDB.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projetos.Net\Linguagem\Linguagem\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

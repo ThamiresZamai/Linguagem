@@ -1,0 +1,6 @@
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\bin\Debug\Entidade.dll
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\bin\Debug\Entidade.pdb
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\obj\Debug\Entidade.dll
+C:\Projetos.Net\Linguagem\Linguagem\Entidade\obj\Debug\Entidade.pdb
